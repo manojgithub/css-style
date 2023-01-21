@@ -1,0 +1,29 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+body{
+    background-color: beige;
+}
+section{
+    background-color: rgb(232, 188, 203);
+}
+.sectionTitle{
+    text-decoration: underline;
+    color: rgb(150, 153, 51);
+}
+#specialTitle{
+    color: rgb(220, 28, 28);
+    text-transform: capitalize;
+}
+span{
+    color: rgb(239, 12, 12);
+}
+p{
+    background-color: rgb(233, 226, 230);
+    color: rgb(17, 19, 17);
+}
+h1{
+    color: aqua;
+    background-color: rgb(219, 219, 41);
+}
